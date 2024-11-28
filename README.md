@@ -46,6 +46,7 @@ This application is a perfect blend of the arts, blockchain, and digital assets,
   - Ethereum 
   - Hardhat
   - Alchemy
+  - IPFS
 
 - **Wallet Integration**:
   - MetaMask 
